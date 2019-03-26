@@ -1,0 +1,12 @@
+test
+files/uploads
+config
+files/public
+locales
+test
+.jscsrc
+.jshintignore
+.jshintrc
+.travis.yml
+.gitignore
+*.log
