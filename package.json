@@ -24,9 +24,9 @@
   "keywords": [
     "wejs-plugin"
   ],
-  "repository": "",
+  "repository": "wejs/we-plugin-fb-pixel",
   "license": "MIT",
-  "author": "Someone <conact@someone.com>",
+  "author": "Alberto Souza <contato@albertosouza.net>",
   "wejs": {
     "dependencies": {
       "we-plugin-acl": true,
