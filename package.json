@@ -3,9 +3,7 @@
   "description": "We.js we-plugin-fb-pixel plugin",
   "version": "1.0.2",
   "main": "plugin.js",
-  "scripts": {
-    "test": "NODE_ENV=test LOG_LV=info ./node_modules/.bin/mocha test/bootstrap.js test/**/*.test.js"
-  },
+  "scripts": {},
   "devDependencies": {},
   "keywords": [
     "wejs-plugin"
